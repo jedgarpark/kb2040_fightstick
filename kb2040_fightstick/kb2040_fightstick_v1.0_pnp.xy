@@ -1,0 +1,22 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=kb2040_fightstick_v1.0
+# Date=16:08:42
+# CreatedBy=Fritzing 1.0.4.2024-10-07.CD-2051-0-a8c6ef7c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J2,";;;;;;;;","THT",120,775.956,0,Top,THT
+J4,";;;;;;;;","THT",1855,765.956,180,Top,THT
+J1,";;;;;;;;","THT",120,1875.96,0,Top,THT
+J3,";;;;;;;;","THT",1855,1865.96,180,Top,THT
+KB2040,";;;;;;;;","",975,1994.71,90,Top,MANUAL
+USB,";;;;;;;;","THT",1550,2570.96,-90,Top,THT
